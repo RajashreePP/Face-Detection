@@ -1,2 +1,2 @@
 # Face-Detection
- face detection using Haar Cascade Classifiers.
+ Face detection and eyes detection using Haar Cascade Classifiers.
